@@ -29,5 +29,4 @@
 - Twitter - [@Mohaiminur](https://twitter.com/sifatkhan442)
 - Website - [Mohaiminur](https://mohaiminur.ml)
 
-[Back To The Top](#Textchat)
 ---
