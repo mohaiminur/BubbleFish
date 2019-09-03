@@ -1,7 +1,5 @@
-# BubbleFish
+# BubbleFish(Android Game)
 
----
-### Bubbe Fish(Android game)
 ---
 ## Using Tech:
 
